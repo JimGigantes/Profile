@@ -1,5 +1,5 @@
 # Profile
-The purpose for the exercise was to build a profile for future professional endevours.
+The purpose for the exercise was to build a profile for future professional endeavors.
 
 ### Minimum Requirements
 
@@ -7,7 +7,7 @@ The purpose for the exercise was to build a profile for future professional ende
 
 * GitHub repository with README describing the project   Done
 
-* Navbar must be consistent on each page.   Done (I had a small formating issue that i couldnt solve. Not sure why it wouldnt resize on each page the same way.
+* Navbar must be consistent on each page.   Done (I had a small formatting  issue that I couldn't solve. Not sure why it wouldn't resize on each page the same way)
 
 * Navbar on each page must contain links to Home/About, Contact, and Portfolio pages.            Done
 
